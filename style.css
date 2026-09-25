@@ -456,17 +456,6 @@ body.dark .hero h2 {
     margin-bottom: 55px;
 }
 
-.section-heading span {
-
-    color: var(--accent);
-
-    font-size: 0.75rem;
-
-    font-weight: 800;
-
-    letter-spacing: 2px;
-}
-
 .section-heading h2 {
 
     margin-top: 8px;
